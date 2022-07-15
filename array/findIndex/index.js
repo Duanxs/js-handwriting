@@ -15,6 +15,6 @@ Array.prototype.myFindIndex = function (callback, thisArg) {
 const a = [1, 2, 3, 4, 5]
 const b = [1, 2, 3, 4, 5]
 
-const findIndexFn = (item) => (item = 1)
+const findIndexFn = (item) => item === 1
 console.log(`🚀 ~ a.myFindIndex()`, a.myFindIndex(findIndexFn))
 console.log(`🚀 ~ a.findIndex()  `, b.findIndex(findIndexFn))
