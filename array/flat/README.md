@@ -7,7 +7,7 @@
 ## 语法
 
 ```js
-arr.findIndex([depth])
+arr.flat([depth])
 ```
 
 ### 参数
