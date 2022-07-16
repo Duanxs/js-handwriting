@@ -7,7 +7,7 @@
 ## 语法
 
 ```js
-arr.includes(callback(valueToFind[, fromIndex])
+arr.includes(valueToFind[, fromIndex])
 ```
 
 ### 参数
