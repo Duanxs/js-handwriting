@@ -2,7 +2,7 @@
 
 `from()`，接收类数组或可迭代对象，返回新数组。
 
-[MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+[MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
 ## 语法
 
