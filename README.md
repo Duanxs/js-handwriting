@@ -31,7 +31,7 @@
 - [x] [Array.prototype.reduceRight()](./array/reduceRight)
 - [x] [Array.prototype.reverse()](./array/reverse)
 - [x] [Array.prototype.shift()](./array/shift)
-- [ ] [Array.prototype.slice()](./array/slice)
+- [x] [Array.prototype.slice()](./array/slice)
 - [ ] [Array.prototype.some()](./array/some)
 - [ ] [Array.prototype.sort()](./array/sort)
 - [ ] [Array.prototype.splice()](./array/splice)
