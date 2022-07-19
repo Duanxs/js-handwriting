@@ -30,7 +30,7 @@
 - [x] [Array.prototype.reduce()](./Array/reduce)
 - [x] [Array.prototype.reduceRight()](./Array/reduceRight)
 - [x] [Array.prototype.reverse()](./Array/reverse)
-- [ ] [Array.prototype.shift()](./Array/shift)
+- [x] [Array.prototype.shift()](./Array/shift)
 - [ ] [Array.prototype.slice()](./Array/slice)
 - [ ] [Array.prototype.some()](./Array/some)
 - [ ] [Array.prototype.sort()](./Array/sort)
