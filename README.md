@@ -12,7 +12,7 @@
 - [x] [Array.prototype.find()](./array/find)
 - [x] [Array.prototype.findIndex()](./array/findIndex)
 - [x] [Array.prototype.findLast()](./array/findLast)
-- [ ] [Array.prototype.findLastIndex()](./array/findLastIndex)
+- [x] [Array.prototype.findLastIndex()](./array/findLastIndex)
 - [x] [Array.prototype.flat()](./array/flat)
 - [x] [Array.prototype.flatMap()](./array/flatMap)
 - [x] [Array.prototype.forEach()](./array/forEach)
