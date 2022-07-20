@@ -33,7 +33,7 @@
 - [x] [Array.prototype.shift()](./array/shift)
 - [x] [Array.prototype.slice()](./array/slice)
 - [x] [Array.prototype.some()](./array/some)
-- [ ] [Array.prototype.sort()](./array/sort)
+- [x] [Array.prototype.sort()](./array/sort)
 - [ ] [Array.prototype.splice()](./array/splice)
 - [ ] [Array.prototype.toLocaleString()](./array/toLocaleString)
 - [ ] [Array.prototype.toString()](./array/toString)
