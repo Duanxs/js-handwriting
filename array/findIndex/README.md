@@ -2,7 +2,7 @@
 
 `findIndex()`，接收回调函数一个，过滤出满足条件的**第一个**元素的索引，没找到则返回 `-1`。此方法不改变原数组。
 
-[MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+[MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 
 ## 语法
 
