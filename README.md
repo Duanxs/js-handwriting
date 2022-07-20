@@ -37,5 +37,5 @@
 - [x] [Array.prototype.splice()](./array/splice)
 - [x] [Array.prototype.toLocaleString()](./array/toLocaleString)
 - [x] [Array.prototype.toString()](./array/toString)
-- [ ] [Array.prototype.unshift()](./array/unshift)
+- [x] [Array.prototype.unshift()](./array/unshift)
 - [ ] [Array.prototype.values()](./array/values)
