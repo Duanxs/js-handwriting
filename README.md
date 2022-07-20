@@ -11,7 +11,7 @@
 - [x] [Array.prototype.filter()](./array/filter)
 - [x] [Array.prototype.find()](./array/find)
 - [x] [Array.prototype.findIndex()](./array/findIndex)
-- [ ] [Array.prototype.findLast()](./array/findLast)
+- [x] [Array.prototype.findLast()](./array/findLast)
 - [ ] [Array.prototype.findLastIndex()](./array/findLastIndex)
 - [x] [Array.prototype.flat()](./array/flat)
 - [x] [Array.prototype.flatMap()](./array/flatMap)
