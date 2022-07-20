@@ -36,6 +36,6 @@
 - [x] [Array.prototype.sort()](./array/sort)
 - [x] [Array.prototype.splice()](./array/splice)
 - [x] [Array.prototype.toLocaleString()](./array/toLocaleString)
-- [ ] [Array.prototype.toString()](./array/toString)
+- [x] [Array.prototype.toString()](./array/toString)
 - [ ] [Array.prototype.unshift()](./array/unshift)
 - [ ] [Array.prototype.values()](./array/values)
