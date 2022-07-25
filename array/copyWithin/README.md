@@ -2,6 +2,8 @@
 
 `copyWithin()` 用以浅复制数组某部分，替换到给定位置，并返回。该方法不改变原数组长度。
 
+[MDN 参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin)
+
 ## 语法
 
 ```js
